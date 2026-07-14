@@ -1,0 +1,1 @@
+Random Forest model with engineered features: Title extraction from names, FamilySize (SibSp + Parch + 1), IsAlone indicator, Age and Fare binning. Missing values imputed by Pclass and Sex groups. Achieved 83.16% cross-validation accuracy.
